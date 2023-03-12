@@ -1,2 +1,2 @@
 # Python-
-Here i all codes of python will be show
+All codes of python included here
